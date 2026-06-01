@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s http://localhost:5173/mini-tool/)",
+      "WebSearch",
+      "Bash(npm i *)",
+      "Bash(vercel env *)",
+      "Bash(npx vercel *)",
+      "Bash(curl *)",
+      "Bash(npm run *)",
+      "Bash(git init *)",
+      "Bash(gh auth *)",
+      "Bash(winget install *)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(where gh *)",
+      "Read(//c/Program Files/GitHub CLI/**)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" repo create mini-tool --source=. --public --push)"
+    ]
+  }
+}
