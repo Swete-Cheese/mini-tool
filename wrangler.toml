@@ -1,0 +1,7 @@
+name = "mini-tool"
+pages_build_output_dir = "dist"
+compatibility_date = "2025-06-01"
+
+[[kv_namespaces]]
+binding = "SHARE_DATA"
+id = "d682a10031f246e0832966020984986b"
